@@ -1,6 +1,6 @@
 # test
-+a
-+b
-+c
++ a
++ b
++ c
 
 the description for test
